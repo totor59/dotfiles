@@ -1,8 +1,8 @@
 ### DOTFILES
 
-Minimal vimrc with powerline
-Minimal bashrc with powerline
-Neofetch riced config
+- Minimal vimrc with powerline
+- Minimal bashrc with powerline
+- Neofetch riced config
 
 # How to run?
 ```
